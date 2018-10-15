@@ -5,5 +5,6 @@ Poster templates in Illustrator and PowerPoint to give scientists a starting poi
 
 ---
 
-These were created by fellows of the [MIT Biological Engineering Communication Lab](http://mitcommlab.mit.edu/be/)
+These were created by fellows of the [MIT Biological Engineering Communication Lab](http://mitcommlab.mit.edu/be/).
+
 Email MIT-BECL with any questions at `becl@mit.edu`.
